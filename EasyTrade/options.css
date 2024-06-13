@@ -1,0 +1,14 @@
+/* options.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  #settings {
+    padding: 20px;
+  }
+  
